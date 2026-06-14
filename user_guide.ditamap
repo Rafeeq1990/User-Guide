@@ -3,4 +3,5 @@
 <map>
     <title>User Guide</title>
     <topicref href="welcome_to_android.dita"/>
+    <topicref href="how_to_add_an_app_icon_to_a_home_screen.dita"/>
 </map>
