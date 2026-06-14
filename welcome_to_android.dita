@@ -108,5 +108,23 @@
             nominated movies from 2006” or “Brad Pitt movies,” and let Android TV do the work.</p>
         <p>For more information, visit<xref href="https://store.google.com/" format="xml">
                 play.google.com/store/devices.</xref></p>
+        <p><b>Quick Settings</b></p>
+        <p>Use Quick Settings to easily get to frequently used settings, like turning on airplane
+            mode. To open Quick Settings, swipe down from the top of the screen with two fingers or
+            twice with one finger. To change a setting, just touch the icon:</p>
+        <ul id="ul_ftm_24y_4jc">
+            <li>Wi-Fi network: Turn Wi-Fi on or off. To open Wi-Fi settings, touch the Wi-Fi network
+                name.</li>
+            <li>Bluetooth settings: Turn Bluetooth on or off. To open Bluetooth settings, touch the
+                word “Bluetooth”.</li>
+            <li>Cellular data: See cellular usage data and turn it on or off.</li>
+            <li>Airplane mode: Turn airplane mode on or off. Airplane mode means your phone won’t
+                connect to Wi-Fi or a cell signal, even if one is available.</li>
+        </ul>
+        <p>Google Pixel</p>
+        <p/>
+        <p>
+            <image placement="break" href="Images/Google-Pixel.jpg" id="image_sp5_gqy_4jc"/>
+        </p>
     </conbody>
 </concept>
