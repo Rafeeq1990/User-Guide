@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_add_an_app_icon_to_a_home_screen">
+    <title>How to add an app icon to a Home screen:</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p><image conref="welcome_to_android.dita#welcome_to_android/image_sp5_gqy_4jc"
+                    id="image_rfy_c5y_4jc"/></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to the Home screen where you want to place the app.</cmd>
+            </step>
+            <step>
+                <cmd>Touch All Apps.</cmd>
+                <info>
+                    <image placement="break" href="Images/Google-Pixel.jpg" id="image_xff_5sy_4jc"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Swipe from right to left, if necessary, to find the app you want.</cmd>
+            </step>
+            <step>
+                <cmd>Touch &amp; hold the app until the Home screen appears, slide it into place,
+                    and lift your finger.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
